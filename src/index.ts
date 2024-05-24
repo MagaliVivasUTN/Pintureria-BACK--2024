@@ -1,1 +1,3 @@
-console.log("Console log de prueba");
+
+// index.ts
+import { expressApp, port } from './server';
